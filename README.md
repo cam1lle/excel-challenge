@@ -42,5 +42,3 @@ To analyze the relationship between crowdfunding goals and project outcomes, I c
 To gain a deeper understanding of campaign backers, I created a new worksheet with columns for the number of backers of successful and unsuccessful campaigns. Using Excel, I evaluated summary statistics for both successful and unsuccessful campaigns, including the mean, median, minimum, maximum, variance, and standard deviation of the number of backers. I also determined whether the mean or the median better summarized the data and analyzed the variability between successful and unsuccessful campaigns.
 
 Please refer to the project files and report for more detailed information and insights gained from the analysis.
-
-Note: This README file provides an overview of the project and the actions taken. For more specific details, please refer to the project files and report included in the shared link.
